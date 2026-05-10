@@ -1,5 +1,7 @@
 # S-UI Backup
 
+**Language:** English | [Русский](README-ru.md)
+
 Personal backup / survival archive of **S-UI**.
 
 The original upstream repository `alireza0/s-ui` became unavailable for me and started returning `404` for the repository, releases, raw install script and the author profile. This repository is kept as a personal backup of a known working S-UI installation.
