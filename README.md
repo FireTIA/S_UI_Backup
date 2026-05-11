@@ -20,6 +20,7 @@ Archived working installation:
 
 ```text
 Panel: S-UI
+Version S-UI: v1.4.1
 Core: sing-box based
 Backup date: 2026-05-11
 Original install path: /usr/local/s-ui
