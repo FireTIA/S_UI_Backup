@@ -1,0 +1,15 @@
+S-UI All-in-one source tree
+
+Version: v1.4.1
+Backend source: S-UI_Backend
+Frontend source: ClashConnectRules/s-ui-frontend
+Frontend commit: f65f58e
+Build method tested: Docker
+Docker image tested: s-ui-custom:1.4.1
+
+Notes:
+- Frontend source is included in ./frontend
+- build.sh was patched for Linux/WSL by removing the invalid linker flag:
+  -Wl,-no_warn_duplicate_libraries
+- Native Ubuntu/glibc build may fail because cronet-go uses linux_amd64_musl libraries
+- Docker/Alpine build is recommended

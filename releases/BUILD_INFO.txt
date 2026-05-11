@@ -1,0 +1,7 @@
+S-UI custom build
+Version: v1.4.1
+Backend source: S-UI_Backend
+Frontend source: ClashConnectRules/s-ui-frontend commit f65f58e
+Build method: Docker
+Docker image: s-ui-custom:1.4.1
+Runtime base: Alpine
