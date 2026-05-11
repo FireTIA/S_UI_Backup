@@ -20,6 +20,7 @@ https://github.com/FireTIA/S_UI_Backup
 
 ```text
 Панель: S-UI
+Версия S-UI: v1.4.1
 Core: на базе sing-box
 Дата бэкапа: 2026-05-11
 Оригинальный путь установки: /usr/local/s-ui
