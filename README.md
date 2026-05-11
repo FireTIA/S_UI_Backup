@@ -1,5 +1,7 @@
 # S-UI Backup Source Code
 
+**Language:** English | [Русский](README-ru.md)
+
 This branch contains the archived source code of **S-UI**.
 
 The repository is kept only as a personal backup of a known working S-UI source tree.  
