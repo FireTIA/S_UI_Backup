@@ -1,3 +1,0 @@
-/usr/local/s-ui/sui:        ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=JnVnOor7Lxmo7XZtgTLi/o-Kyo3hhw47e-I-rSNGF/tLuNrTzw7AhUetgpclNW/m12Spfr10KMQ60AuRYLX, BuildID[sha1]=77ca5daa99ea23810f4fb52b8be6842b5700f648, stripped
-/usr/local/s-ui/s-ui.sh:    Bourne-Again shell script, Unicode text, UTF-8 text executable
-/usr/local/s-ui/db/s-ui.db: SQLite 3.x database, last written using SQLite version 3050003, writer version 2, read version 2, file counter 30, database pages 52, cookie 0xb, schema 4, UTF-8, version-valid-for 30
